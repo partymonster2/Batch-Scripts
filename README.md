@@ -1,2 +1,2 @@
 # Batch-Scripts
-Educational Purposes, no NO malitious intent behind this.
+Educational Purposes, no NO malicious intent behind this.
